@@ -1,5 +1,7 @@
 # vulnerable-instagram
-Vulnerable replica of instagram login page, originally designed for SEToolkit's custom Site Import challenge
+Vulnerable replica of instagram login page designed for security testing
+
+Can be used with SEToolkit's Credential Harvester (Social Engineering Tool)
 
 Tutorial of how to use this for SEToolkit (Site Cloning):
 **video link**
